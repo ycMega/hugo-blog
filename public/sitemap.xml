@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/posts/my-first-post/</loc>
+    <lastmod>2024-06-27T12:28:25+08:00</lastmod>
+  </url><url>
     <loc>https://example.org/</loc>
     <lastmod>2024-06-27T12:28:25+08:00</lastmod>
   </url><url>
@@ -9,6 +12,22 @@
     <lastmod>2024-06-27T12:28:25+08:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/emotion/</loc>
+  </url><url>
+    <loc>https://example.org/categories/excerpt-lines/</loc>
+  </url><url>
+    <loc>https://example.org/lines/fake-ascention/</loc>
+  </url><url>
+    <loc>https://example.org/tags/gray-raven/</loc>
+  </url><url>
+    <loc>https://example.org/lines/sagrada-reset-1/</loc>
+  </url><url>
+    <loc>https://example.org/lines/</loc>
+  </url><url>
+    <loc>https://example.org/tags/sagrada-reset/</loc>
+  </url><url>
+    <loc>https://example.org/tags/tag-2/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
