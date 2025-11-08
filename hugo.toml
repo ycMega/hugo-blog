@@ -1,4 +1,24 @@
-baseURL = 'https://ycmega.github.io/hugo-blog/'
+baseURL = 'https://ycmega.github.io/'
 languageCode = 'en-us'
 title = 'Hugo Site of ycmega'
 theme = 'ananke'
+
+[params]
+  defaultTheme = "auto"
+  # 这里 homeInfoParams 下注意不要换行，否则 hugo server可能打开不了（复制时候删除这行注释）
+  homeInfoParams = { Title = "你好，我是 ycmega ", Content = "欢迎来到我的博客主页：个人 / 博客 / 教程 " }
+
+[[menu.main]]
+  name = "个人"
+  url = "/posts"
+  weight = 1
+
+[[menu.main]]
+  name = "教程"
+  url = "/docs"
+  weight = 2
+
+[[menu.main]]
+  name = "学习"
+  url = "/study"
+  weight = 3
