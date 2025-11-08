@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+=======
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+>>>>>>> 4c73b3a6cd54a32fb6cdad1239f2f4a3309713db
