@@ -1,0 +1,4 @@
+baseURL = 'https://ycmega.github.io/hugo-blog/'
+languageCode = 'en-us'
+title = 'Hugo Site of ycmega'
+theme = 'ananke'
