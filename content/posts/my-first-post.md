@@ -1,10 +1,11 @@
 +++
-title = 'My First Post'
-date = 2024-06-27T12:28:25+08:00
+title = 'Information'
 draft = true
 +++
-## Introduction
+## About the Author
 
-This is **bold** text, and this is *emphasized* text.
+- **Name**: Yuchen Yan
+- **Email**: [email](yanyc21@mails.tsinghua.edu.cn)
+- **GitHub**: [ycMega](https://github.com/ycMega)
 
-Visit the [Hugo](https://gohugo.io) website!
+

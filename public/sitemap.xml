@@ -2,30 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ycmega.github.io/hugo-blog/</loc>
-    <lastmod>2024-06-27T12:28:25+08:00</lastmod>
+    <loc>https://ycmega.github.io/categories/</loc>
   </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/posts/</loc>
-    <lastmod>2024-06-27T12:28:25+08:00</lastmod>
+    <loc>https://ycmega.github.io/</loc>
   </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/categories/</loc>
+    <loc>https://ycmega.github.io/lines/</loc>
   </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/tags/emotion/</loc>
+    <loc>https://ycmega.github.io/lines/maths/</loc>
   </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/categories/excerpt-lines/</loc>
+    <loc>https://ycmega.github.io/posts/</loc>
   </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/lines/fake-ascention/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/tags/gray-raven/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/lines/sagrada-reset-1/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/lines/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/tags/sagrada-reset/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/tags/tag-2/</loc>
-  </url><url>
-    <loc>https://ycmega.github.io/hugo-blog/tags/</loc>
+    <loc>https://ycmega.github.io/tags/</loc>
   </url>
 </urlset>

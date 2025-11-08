@@ -1,24 +1,45 @@
 baseURL = 'https://ycmega.github.io/'
 languageCode = 'en-us'
 title = 'Hugo Site of ycmega'
-theme = 'ananke'
+theme = 'PaperMod'
 
+publishDir = "public"  # 输出目录（默认值，可省略）
+deleteCache = true    # 构建前清理缓存（等同 --gc）
+# 必要的主题配置
 [params]
-  defaultTheme = "auto"
-  # 这里 homeInfoParams 下注意不要换行，否则 hugo server可能打开不了（复制时候删除这行注释）
-  homeInfoParams = { Title = "你好，我是 ycmega ", Content = "欢迎来到我的博客主页：个人 / 博客 / 教程 " }
+  # 导航栏标题（可选）
+  headerTitle = "YCMega's Blog"
 
+  # 侧边栏配置（可选）
+  sidebarAbout = [
+    "A simple Hugo site.",
+    "Built with ❤️ using Hugo and GitHub Pages."
+  ]
+
+  # 自定义 CSS/JS（可选）
+#   customCSS = ["css/custom.css"]
+#   customJS = ["js/custom.js"]
+
+
+
+# hugo.toml
+
+# ... 其他配置 ...
+
+# 菜单配置（新增以下内容）
 [[menu.main]]
-  name = "个人"
-  url = "/posts"
+  name = "Home"
+  url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "教程"
-  url = "/docs"
+  name = "Lines"
+  url = "/lines/"
   weight = 2
 
 [[menu.main]]
-  name = "学习"
-  url = "/study"
-  weight = 3
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+# 注意：菜单配置必须放在文件的末尾或独立区块
