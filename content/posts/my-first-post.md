@@ -1,6 +1,6 @@
 +++
 title = 'Information'
-draft = true
+draft = false
 +++
 ## About the Author
 
